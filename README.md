@@ -39,6 +39,30 @@ For a full list of commands and their usage, refer to the [Heat Bot documentatio
 
 If you encounter any issues or have questions regarding Heat Bot, you can reach out to our support team by [contacting us](https://www.heatbot.com/support). We are here to assist you and ensure you have the best experience with Heat Bot.
 
+## For the Nerds
+
+Here is the directory and each files:
+
+```
+heat-bot-website
+├── public
+│   ├── index.html
+│   └── heat-bot-logo.png
+└── src
+    ├── components
+    │   ├── Header.js
+    │   ├── Features.js
+    │   ├── Installation.js
+    │   ├── Usage.js
+    │   ├── Support.js
+    │   ├── Footer.js
+    │   └── App.js
+    ├── App.css
+    ├── index.js
+    └── index.css
+
+```
+
 ## License
 
 Heat Bot is released under the [MIT License](LICENSE).
